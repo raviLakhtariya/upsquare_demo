@@ -1,0 +1,6 @@
+framework module Pods_upsquare_Demo_upsquare_DemoUITests {
+  umbrella header "Pods-upsquare_Demo-upsquare_DemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
